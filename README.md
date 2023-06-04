@@ -7,5 +7,6 @@ The following linear algebra operations are implemented in this project:
 - Trace calculation
 - Eigenvalues/Eigenvectors calculation
 - LU decomposition
-- Singular value decomposition (SVD)
+- Singular value decomposition (SVD).
+
 Each operation is illustrated with usage example.
